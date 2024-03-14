@@ -2593,21 +2593,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたんだい？私の家なんかじっと見て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、早く行かないと学校に遅刻しちゃうよ？」"
+                                "\"What's the matter? Staring at my house like that. Come on,\nwe need to hurry or we'll be late for school!\""
                             ]
                         },
                         {
@@ -2741,7 +2734,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -2752,21 +2745,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オッ！！♡♡♡お゛ぉ゛ッ！！♡♡♡オッオッ！！♡♡♡おっ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほぉぉ！！♡♡♡ごぉおっ！！♡♡♡おぉぉぉ！！♡♡♡おぉん゛ん！！♡♡♡」"
+                                "\"Ah!! ♡♡♡ Ohhh!! ♡♡♡ Ah, ah!! ♡♡♡ Ahh!! ♡♡♡ Hoo!! ♡♡♡ Goo!!\n♡♡♡ Oooh!! ♡♡♡ Ohnn!! ♡♡♡\""
                             ]
                         },
                         {
@@ -2777,21 +2763,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぎひぃ゛ぃぃぃ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マンコのバイブが暴れるぅぅぅ！！♡♡♡」"
+                                "\"Gihiiii!! ♡♡♡ My pussy's going crazy with the vibrator!!\n♡♡♡\""
                             ]
                         },
                         {
@@ -2802,14 +2781,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{「ごぇえぇぇ！？♡♡♡」"
+                                "\"Goe-eeeh!? ♡♡♡\""
                             ]
                         },
                         {
@@ -2820,21 +2799,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハハハハ！やっぱ安物の薬じゃ簡単には濡れねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁやり続けてたらその内よくなってくるだろ！」"
+                                "\"Hahaha! As expected, cheap drugs don't make you wet that\neasily! Well, if we keep going, you'll get better\neventually!\""
                             ]
                         },
                         {
@@ -2845,14 +2817,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤 衛(さとう まもる)"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "\"...\""
                             ]
                         },
                         {
@@ -2870,21 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナレーション"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三行"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで"
+                                "Narration up to three lines"
                             ]
                         },
                         {
@@ -2898,7 +2856,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -2912,7 +2870,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -3319,7 +3277,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -3333,7 +3291,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -3468,7 +3426,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -3482,7 +3440,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie & Climax Scene Template~"
                             ]
                         },
                         {
@@ -3536,21 +3494,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁぁぁ！！♡♡♡イク！！♡♡♡イっちゃう！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イクイクイクイクイックウウウウウウウウウウウウ！！♡♡♡」"
+                                "\"Aaahh!! ♡♡♡ I'm coming!! ♡♡♡ I'm gonna cum!! ♡♡♡ Cumming,\ncumming, cumming, cumming, cuuummmiiinggg!! ♡♡♡\""
                             ]
                         },
                         {
@@ -3678,7 +3629,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie・Climax Scene・Template~"
                             ]
                         },
                         {
@@ -3692,7 +3643,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -3750,28 +3701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、私は数時間にわたり、何度も鈴木に犯された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツは一切ゴムをつけず、私の中に射精した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行為が終わった後、私は強い自己嫌悪に陥っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に得も言えぬ満足感も、確かに感じていた。"
+                                "Afterwards, I was violated by Suzuki for several hours. He\nnever wore a condom and ejaculated inside me. After the act\nwas over, I was overwhelmed with strong self-loathing, but\nat the same time, I also felt an indescribable sense of\nsatisfaction."
                             ]
                         },
                         {
@@ -3835,7 +3765,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -4202,21 +4132,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ、やっと来たね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃあ、いつもみたいにお喋りしながら行こうか」"
+                                "\"Hehe, you finally made it. Well then, shall we chat as\nusual while we go?\""
                             ]
                         },
                         {
@@ -4227,21 +4150,14 @@
                                 0,
                                 0,
                                 2,
-                                "暗い顔をした少年"
+                                "Boy With A Gloomy Face"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ…………そうだね…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつもみたいに…………一緒に行こう…………」"
+                                "\"Ah... yeah... like always... let's go together...\""
                             ]
                         },
                         {
@@ -4496,21 +4412,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いつも私が待っていた場所だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただの電柱の影だけど…………君にとってはここも思い出の場所なんだね」"
+                                "\"It's always the place where I've been waiting. It's just\nthe shadow of a utility pole... but for you, this place is\nalso filled with memories, isn't it?\""
                             ]
                         },
                         {
@@ -4701,21 +4610,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -4817,21 +4719,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -4933,21 +4828,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -5049,21 +4937,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -5165,21 +5046,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -5281,21 +5155,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {
@@ -5397,21 +5264,14 @@
                                 0,
                                 0,
                                 2,
-                                "凛々しい少女"
+                                "Gallant Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、こっちは学校とは逆の方向だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フフフ…………まだ寝ぼけているのかい？」"
+                                "\"Hey hey, this is the opposite direction from the school,\nisn't it? Hehehe... Are you still half asleep?\""
                             ]
                         },
                         {

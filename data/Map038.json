@@ -4429,21 +4429,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「流石に4階建てだとエレベーターがついてるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも使ったら侵入したことがばれるよな」"
+                                "\"As expected of a four-story building, it has an elevator.\nBut if I use it, they'll know I've broken in.\""
                             ]
                         },
                         {
@@ -4694,21 +4687,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「流石に4階建てだとエレベーターがついてるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも使ったら侵入したことがばれるよな」"
+                                "\"As expected of a four-story building, it has an elevator.\nBut if I use it, they'll know I've broken in.\""
                             ]
                         },
                         {
@@ -5202,7 +5188,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -5213,21 +5199,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オッ！！♡♡♡お゛ぉ゛ッ！！♡♡♡オッオッ！！♡♡♡おっ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほぉぉ！！♡♡♡ごぉおっ！！♡♡♡おぉぉぉ！！♡♡♡おぉん゛ん！！♡♡♡」"
+                                "\"Ah!!♡♡♡ Ohhh!!♡♡♡ Ah, ah!!♡♡♡ Ahh!!♡♡♡ Hoo!!♡♡♡ Goo!!♡♡♡\nOooh!!♡♡♡ Ohnn!!♡♡♡\""
                             ]
                         },
                         {
@@ -5238,21 +5217,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぎひぃ゛ぃぃぃ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マンコのバイブが暴れるぅぅぅ！！♡♡♡」"
+                                "\"Gyahi!!♡♡♡ My pussy's vibrator is going wild!!♡♡♡\""
                             ]
                         },
                         {
@@ -5263,14 +5235,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{「ごぇえぇぇ！？♡♡♡」"
+                                "\"Goe!!?♡♡♡\""
                             ]
                         },
                         {
@@ -5281,21 +5253,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハハハハ！やっぱ安物の薬じゃ簡単には濡れねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁやり続けてたらその内よくなってくるだろ！」"
+                                "\"Hahaha! As expected, cheap drugs don't make you wet that\neasily! Well, if you keep going, it'll eventually get\nbetter!\""
                             ]
                         },
                         {
@@ -5306,14 +5271,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤 衛(さとう まもる)"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "\"...\""
                             ]
                         },
                         {
@@ -5331,21 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナレーション"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三行"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで"
+                                "Narration up to three lines"
                             ]
                         },
                         {
@@ -5359,7 +5310,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -5373,7 +5324,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -5780,7 +5731,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -5794,7 +5745,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -5929,7 +5880,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -5943,7 +5894,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie・Climax Scene・Template~"
                             ]
                         },
                         {
@@ -5997,21 +5948,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁぁぁ！！♡♡♡イク！！♡♡♡イっちゃう！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イクイクイクイクイックウウウウウウウウウウウウ！！♡♡♡」"
+                                "\"Aaah!!♡♡♡ I'm coming!!♡♡♡ I'm gonna cum!!♡♡♡ Cumming,\ncumming, cumming, cumming, cuuumiiinggg!!♡♡♡\""
                             ]
                         },
                         {
@@ -6139,7 +6083,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie & Climax Scene Template~"
                             ]
                         },
                         {
@@ -6153,7 +6097,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -6211,28 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、私は数時間にわたり、何度も鈴木に犯された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツは一切ゴムをつけず、私の中に射精した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行為が終わった後、私は強い自己嫌悪に陥っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に得も言えぬ満足感も、確かに感じていた。"
+                                "Afterward, I was violated by Suzuki for several hours. He\nnever once used a condom and ejaculated inside me. After the\nact was over, I was consumed by strong self-loathing, but at\nthe same time, I also felt an undeniable sense of\nsatisfaction."
                             ]
                         },
                         {
@@ -6296,7 +6219,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -6396,14 +6319,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んっ…………うぅ……………………」"
+                                "\"Mmm... Ugh...\""
                             ]
                         },
                         {
@@ -6555,21 +6478,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お？やっと起きたか、随分とぐっすり眠ってたじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ、馬鹿みたいにイかさせまくったからな。当然っちゃ当然か！」"
+                                "\"Oh? Finally awake, huh? You were sleeping like a log. Well,\nit's only natural after I made you come like an idiot.\""
                             ]
                         },
                         {
@@ -6625,21 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剛は私よりも一足先に起きたらしく、シャワーを浴びて身体を拭ている最中だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日のセックスも凄かった。彼とは毎日セックスをしているが、全く飽きることがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼の与える快感は、常に新鮮で、そして刺激的だった。"
+                                "Go seemed to have woken up before me and was in the middle\nof taking a shower and drying off his body. Last night's sex\nwas incredible. We have sex every day, but I never get tired\nof it. The pleasure he gives me is always fresh and\nexciting."
                             ]
                         },
                         {
@@ -6650,21 +6552,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えへへ♡♡♡昨日も素敵だったよ、ダーリン♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ゴム越しでも精液の熱を感じられたよ♡♡♡」"
+                                "\"Ehehe♡♡♡ Last night was wonderful too, Darling♡♡♡ I could\nfeel the warmth of your semen even through the condom♡♡♡\""
                             ]
                         },
                         {
@@ -6682,21 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来であれば、剛はコンドームなど絶対に使用しない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし妊娠したらセックスができなくなるという名目で、私が剛に装着をお願いしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剛は意外にも快諾してくれたが、それは私の想いを見抜いてのことだろう。"
+                                "Normally, Go would never use a condom. However, under the\npretext that we couldn't have sex if I got pregnant, I asked\nGo to wear one. Surprisingly, he agreed readily, but that\nmust be because he saw through my feelings."
                             ]
                         },
                         {
@@ -6714,21 +6595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剛の女になって数か月になるが、私は未だ、幼馴染への想いを捨てきれずにいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に学校の廊下で衛と話して以来、殆ど彼とは会っていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "衛は明らかに私達を避けていたし、私も衛に合わせる顔がなかった。"
+                                "I've been Go's woman for several months now, but I still\ncan't let go of my feelings for my childhood friend, Mamoru.\nSince the last time we talked in the school corridor, I've\nhardly seen him. Mamoru was clearly avoiding us, and I\ndidn't have the face to meet him either."
                             ]
                         },
                         {
@@ -6777,21 +6644,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は～！しかし朝までやると、やっぱすげぇ数のゴムがいるな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見て見ろよ、誠！部屋中ゴムだらけだぜ！」"
+                                "\"Ha! But man, when you go at it till morning, you really\nneed a crazy number of condoms! Look at this, Makoto! The\nroom is littered with them!\""
                             ]
                         },
                         {
@@ -6840,21 +6700,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わぁ…………本当に凄い数…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　以前はこれを…………全部私の中に出してたんだよね…………ごくっ♡♡♡」"
+                                "\"Wow... That's a lot...♡♡♡ Before, you used to... release\nall of this inside me... Gulp♡♡♡\""
                             ]
                         },
                         {
@@ -6973,21 +6826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は精液の詰まったコンドームを一つ拾い上げ、愛おしそうに見つめた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "衛への想いはまだ残っているが、しかし、同時に彼の子供を孕みたいという欲求もあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コンドーム越しに精液の熱を感じる度、本能が彼の子供を孕みたいと叫んでいた。"
+                                "I picked up one of the semen-filled condoms and looked at it\nfondly. My feelings for Mamoru were still there, but at the\nsame time, I had a desire to bear his child. Every time I\nfelt the warmth of semen through the condom, my instincts\nscreamed to be impregnated by him."
                             ]
                         },
                         {
@@ -7005,21 +6844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしている間も、私の子宮は甘く疼き続けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、子宮に中出しされれば、間違いなく最高の絶頂を味わえるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は衛への想いと快楽を天秤にかけ、どちらを手に取るか、ついに答えを出した。"
+                                "Even as I stand here, my womb continues to throb sweetly. If\nI were to be creampied right now, I'm sure I would\nexperience the ultimate climax. Weighing my feelings for\nMamoru against pleasure, I finally came to a decision."
                             ]
                         },
                         {
@@ -7030,21 +6855,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱりコンドームを付けてセックスするより…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　生でやったほうが気持ちいいよね♡♡♡」"
+                                "\"After all, having sex with a condom on...♡♡♡ feels better\nwithout it, right?♡♡♡\""
                             ]
                         },
                         {
@@ -7102,21 +6920,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クククク！わざわざそんなことを言うってことは…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついに孕む気になったってことで良いんだよな？」"
+                                "\"Kukukuku! The fact that you're saying that means... you're\nfinally ready to get pregnant, right?\""
                             ]
                         },
                         {
@@ -7150,21 +6961,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………うん♡♡♡私はダーリンとのセックスが大好きだもん♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私を中出しで絶頂させて、赤ちゃんを孕ませて♡♡♡」"
+                                "\"...Yeah♡♡♡ I love having sex with you, Darling♡♡♡ Make me\nclimax with a creampie and impregnate me♡♡♡\""
                             ]
                         },
                         {
@@ -7182,21 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は一瞬、言葉に詰まったが、直ぐに肯定し直した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の身体は既にこの男に堕とされているのだ。今更、本能に抗えるはずもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにいつまでも想いを引きずっていては、返って衛にも迷惑がかかるだろう。"
+                                "I hesitated for a moment, but then I affirmed it again. My\nbody has already been corrupted by this man. There's no way\nI can resist my instincts now. Besides, clinging to my\nfeelings forever would only cause trouble for Mamoru."
                             ]
                         },
                         {
@@ -7207,21 +6997,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハ！ようやく堕ちきったな、誠！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいぜ！お望み通りお前を孕ませて、完全に俺の女にしてやるよ！ギャハハハ！」"
+                                "\"Gyahahaha! You've finally fallen completely, Makoto!\nAlright! I'll grant your wish and impregnate you, making you\ncompletely my woman! Gyahahaha!\""
                             ]
                         },
                         {
@@ -7365,21 +7148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剛は余程嬉しかったのか、起床したばかりの私を遠慮なしに抱いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日、何十回と射精したというのに、全く精力が衰えていなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は剛の子供を孕める喜びに打ちひしがれ、存分に彼の精液を子宮で堪能するのであった。"
+                                "Go must have been very happy, as he embraced me without\nhesitation despite having just woken up. Despite ejaculating\ncountless times yesterday, his virility hadn't diminished at\nall. Overwhelmed with joy at the thought of bearing his\nchild, I fully savored his semen in my womb."
                             ]
                         },
                         {

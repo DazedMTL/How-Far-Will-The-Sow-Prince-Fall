@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -1421,8 +1421,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1601,7 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -1609,8 +1609,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1894,7 +1894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -1902,8 +1902,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2082,7 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -2090,8 +2090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2316,7 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -2324,8 +2324,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2528,7 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -2536,8 +2536,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2730,7 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{　　　　　これまでの物語をセーブしますか？"
+                                "Would you like to save your progress so far?"
                             ]
                         },
                         {
@@ -2738,8 +2738,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

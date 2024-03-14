@@ -2510,14 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　　記憶を回想しますか？"
+                                "Would you like to recall the memory?"
                             ]
                         },
                         {
@@ -2525,8 +2518,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "しない"
+                                    "Recollection",
+                                    "Do not"
                                 ],
                                 1,
                                 0,
@@ -2982,10 +2975,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "セーブ",
-                                    "オプション",
-                                    "タイトルに戻る",
-                                    "メニューを閉じる"
+                                    "Save",
+                                    "Options",
+                                    "Return to Title",
+                                    "Close Menu"
                                 ],
                                 3,
                                 0,
@@ -3054,14 +3047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{　　　　　　　タイトルに戻りますか？"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -3069,8 +3055,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

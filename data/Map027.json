@@ -1406,7 +1406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変数プラス1"
+                                "Variable plus 1"
                             ]
                         },
                         {
@@ -1495,7 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン1スイッチ"
+                                "Scene 1 Switch"
                             ]
                         },
                         {

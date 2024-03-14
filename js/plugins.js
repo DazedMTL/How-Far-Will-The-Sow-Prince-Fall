@@ -59,7 +59,7 @@ var $plugins = [
       "<option>": "",
       useOption: "true",
       optionPosition: "2",
-      optionName: "ウィンドウサイズ",
+      optionName: "Window Size",
       optionDispType: "percent",
       windowSizeMin: "50",
       windowSizeMax: "150",

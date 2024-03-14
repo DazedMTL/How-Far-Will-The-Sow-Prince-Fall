@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "暗い自室（回想部屋あり）",
+        "name": "Dark Private Room (With Recollection Room)",
         "order": 14,
         "parentId": 22,
         "scrollX": 793.7142857142857,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "ウィンドウ位置確認用マップ",
+        "name": "Window Position Confirmation Map",
         "order": 2,
         "parentId": 0,
         "scrollX": 0,
@@ -31,7 +31,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "セーブ用マップ　絶対消すな",
+        "name": "Save Map - Do Not Delete",
         "order": 3,
         "parentId": 0,
         "scrollX": 516,
@@ -41,7 +41,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "公園",
+        "name": "Park",
         "order": 15,
         "parentId": 22,
         "scrollX": 801.4285714285713,
@@ -50,7 +50,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "過去の自宅",
+        "name": "Former Home",
         "order": 16,
         "parentId": 22,
         "scrollX": 793.7142857142857,
@@ -59,7 +59,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "受験　学校",
+        "name": "Examination School",
         "order": 17,
         "parentId": 22,
         "scrollX": 832,
@@ -68,7 +68,7 @@
     {
         "id": 8,
         "expanded": true,
-        "name": "自宅前",
+        "name": "Front of the House",
         "order": 18,
         "parentId": 22,
         "scrollX": 793.7777777777778,
@@ -77,7 +77,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "倉庫街",
+        "name": "Warehouse District",
         "order": 19,
         "parentId": 22,
         "scrollX": 848.5714285714286,
@@ -86,7 +86,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "学校教室",
+        "name": "School Classroom",
         "order": 21,
         "parentId": 22,
         "scrollX": 1061.142857142857,
@@ -95,7 +95,7 @@
     {
         "id": 11,
         "expanded": false,
-        "name": "真っ暗闇",
+        "name": "Pitch Black Darkness",
         "order": 13,
         "parentId": 22,
         "scrollX": 825.3333333333334,
@@ -105,7 +105,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "鈴木宅　H用",
+        "name": "Suzuki's House - For H Scenes",
         "order": 37,
         "parentId": 13,
         "scrollX": 801.4285714285713,
@@ -114,7 +114,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "Hシーンまとめ",
+        "name": "Compilation of H Scenes",
         "order": 36,
         "parentId": 0,
         "scrollX": 411.55555555555554,
@@ -124,7 +124,7 @@
     {
         "id": 14,
         "expanded": false,
-        "name": "控室　エピ",
+        "name": "Green Room - Epilogue",
         "order": 32,
         "parentId": 15,
         "scrollX": 617.3333333333334,
@@ -134,7 +134,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "女視点・エピローグまとめ",
+        "name": "Female Perspective - Compilation of Epilogues",
         "order": 28,
         "parentId": 0,
         "scrollX": 825.3333333333334,
@@ -144,7 +144,7 @@
     {
         "id": 16,
         "expanded": true,
-        "name": "公園　H用",
+        "name": "Park - For H Scenes",
         "order": 39,
         "parentId": 13,
         "scrollX": 817.3333333333334,
@@ -153,7 +153,7 @@
     {
         "id": 17,
         "expanded": true,
-        "name": "ステージ H用",
+        "name": "Stage - For H Scenes",
         "order": 40,
         "parentId": 13,
         "scrollX": 793.7142857142857,
@@ -162,7 +162,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "ラブホ　H用",
+        "name": "Love Hotel - For H Scenes",
         "order": 41,
         "parentId": 13,
         "scrollX": 787.7142857142857,
@@ -171,7 +171,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "隣町トイレ　H用",
+        "name": "Neighboring Town Toilet - For H Scenes",
         "order": 42,
         "parentId": 13,
         "scrollX": 787.7142857142857,
@@ -180,7 +180,7 @@
     {
         "id": 20,
         "expanded": true,
-        "name": "隣町",
+        "name": "Neighboring Town",
         "order": 26,
         "parentId": 22,
         "scrollX": 801.4285714285713,
@@ -189,7 +189,7 @@
     {
         "id": 21,
         "expanded": true,
-        "name": "住宅街　H用",
+        "name": "Residential Area - For H Scenes",
         "order": 38,
         "parentId": 13,
         "scrollX": 706.5,
@@ -198,7 +198,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "通常マップまとめ",
+        "name": "Compilation of Normal Maps",
         "order": 12,
         "parentId": 0,
         "scrollX": 478.6666666666667,
@@ -208,7 +208,7 @@
     {
         "id": 23,
         "expanded": true,
-        "name": "平和　自室",
+        "name": "Peaceful Private Room",
         "order": 6,
         "parentId": 24,
         "scrollX": 836,
@@ -217,7 +217,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "平和な世界まとめ",
+        "name": "Compilation of a Peaceful World",
         "order": 5,
         "parentId": 0,
         "scrollX": 1061.142857142857,
@@ -227,7 +227,7 @@
     {
         "id": 25,
         "expanded": true,
-        "name": "平和　自宅前",
+        "name": "Peaceful Front of the House",
         "order": 7,
         "parentId": 24,
         "scrollX": 778.8,
@@ -236,7 +236,7 @@
     {
         "id": 26,
         "expanded": false,
-        "name": "回想部屋　絶対消すな",
+        "name": "Recollection Room - Do Not Delete",
         "order": 4,
         "parentId": 0,
         "scrollX": 516,
@@ -246,7 +246,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "実験用マップ",
+        "name": "Experimental Map",
         "order": 1,
         "parentId": 0,
         "scrollX": 0,
@@ -256,7 +256,7 @@
     {
         "id": 28,
         "expanded": true,
-        "name": "トイレ（回想部屋あり）",
+        "name": "Toilet (With Recollection Room)",
         "order": 20,
         "parentId": 22,
         "scrollX": 793.7142857142857,
@@ -265,7 +265,7 @@
     {
         "id": 29,
         "expanded": true,
-        "name": "平和　地元商店街",
+        "name": "Peaceful Local Shopping District",
         "order": 8,
         "parentId": 24,
         "scrollX": 793.7142857142857,
@@ -274,7 +274,7 @@
     {
         "id": 30,
         "expanded": true,
-        "name": "平和　学校",
+        "name": "Peaceful School",
         "order": 9,
         "parentId": 24,
         "scrollX": 807.4285714285713,
@@ -283,7 +283,7 @@
     {
         "id": 31,
         "expanded": true,
-        "name": "平和　廊下",
+        "name": "Peaceful Hallway",
         "order": 10,
         "parentId": 24,
         "scrollX": 1368,
@@ -292,7 +292,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "平和　屋上",
+        "name": "Peaceful Rooftop",
         "order": 11,
         "parentId": 24,
         "scrollX": 807.4285714285713,
@@ -301,7 +301,7 @@
     {
         "id": 33,
         "expanded": true,
-        "name": "学校　廊下",
+        "name": "School Hallway",
         "order": 22,
         "parentId": 22,
         "scrollX": 1659.4285714285713,
@@ -310,7 +310,7 @@
     {
         "id": 34,
         "expanded": true,
-        "name": "通常　学校",
+        "name": "Normal School",
         "order": 23,
         "parentId": 22,
         "scrollX": 793.7142857142857,
@@ -319,7 +319,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "鈴木宅",
+        "name": "Suzuki's House",
         "order": 24,
         "parentId": 22,
         "scrollX": 801.4285714285713,
@@ -328,7 +328,7 @@
     {
         "id": 36,
         "expanded": true,
-        "name": "過去の自宅前",
+        "name": "Front of the Former Home",
         "order": 25,
         "parentId": 22,
         "scrollX": 807.4285714285713,
@@ -337,7 +337,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "白い部屋",
+        "name": "White Room",
         "order": 27,
         "parentId": 22,
         "scrollX": 792,
@@ -347,7 +347,7 @@
     {
         "id": 38,
         "expanded": true,
-        "name": "鈴木宅　中　エピ",
+        "name": "Suzuki's House Interior - Epilogue",
         "order": 29,
         "parentId": 15,
         "scrollX": 801.4285714285713,
@@ -356,7 +356,7 @@
     {
         "id": 39,
         "expanded": false,
-        "name": "病院　エピ",
+        "name": "Hospital - Epilogue",
         "order": 31,
         "parentId": 15,
         "scrollX": 478.6666666666667,
@@ -366,7 +366,7 @@
     {
         "id": 40,
         "expanded": true,
-        "name": "公園　エピ",
+        "name": "Park - Epilogue",
         "order": 30,
         "parentId": 15,
         "scrollX": 694.5,
@@ -375,7 +375,7 @@
     {
         "id": 41,
         "expanded": true,
-        "name": "ステージ エピ",
+        "name": "Stage Episode",
         "order": 33,
         "parentId": 15,
         "scrollX": 793.7142857142857,
@@ -384,7 +384,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "ラブホ　エピ",
+        "name": "Love Hotel Episode",
         "order": 34,
         "parentId": 15,
         "scrollX": 694.5,
@@ -393,7 +393,7 @@
     {
         "id": 43,
         "expanded": true,
-        "name": "隣町トイレ　",
+        "name": "Neighboring Town Toilet",
         "order": 35,
         "parentId": 15,
         "scrollX": 706.5,
@@ -402,7 +402,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "予備　まとめ",
+        "name": "Reserve Summary",
         "order": 43,
         "parentId": 0,
         "scrollX": 0,
@@ -412,7 +412,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "回想部屋　製品版",
+        "name": "Recollection Room Full Version",
         "order": 46,
         "parentId": 44,
         "scrollX": 529.7142857142857,
@@ -422,7 +422,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "暗い自室（回想部屋あり）",
+        "name": "Dark Private Room (With Recollection Room)",
         "order": 44,
         "parentId": 44,
         "scrollX": 793.7142857142857,
@@ -431,7 +431,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "セーブ用マップ　製品版",
+        "name": "Save Map Full Version",
         "order": 45,
         "parentId": 44,
         "scrollX": 816,
@@ -441,7 +441,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "セーブ用マップ　体験版",
+        "name": "Save Map Trial Version",
         "order": 47,
         "parentId": 44,
         "scrollX": 1061.142857142857,
@@ -451,7 +451,7 @@
     {
         "id": 49,
         "expanded": false,
-        "name": "回想部屋　体験版",
+        "name": "Recollection Room Trial Version",
         "order": 48,
         "parentId": 44,
         "scrollX": 1061.142857142857,

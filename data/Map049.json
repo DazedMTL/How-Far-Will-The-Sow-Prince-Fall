@@ -2126,14 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　全ての回想を解放しますか？"
+                                "Would you like to unlock all recollections?"
                             ]
                         },
                         {
@@ -2141,8 +2134,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解放する",
-                                    "解放しない"
+                                    "Release",
+                                    "Do not release"
                                 ],
                                 1,
                                 0,
@@ -2433,14 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン1：幼馴染のセックス配信"
+                                "Scene 1: Childhood Friend's Sex Broadcast"
                             ]
                         },
                         {
@@ -2532,14 +2518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン1：幼馴染のセックス配信"
+                                "Scene 1: Childhood Friend's Sex Broadcast"
                             ]
                         },
                         {
@@ -2624,14 +2603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　　現実に戻りますか？"
+                                "Do you want to return to reality?"
                             ]
                         },
                         {
@@ -2639,8 +2611,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ残る"
+                                    "Go back",
+                                    "Stay a little longer"
                                 ],
                                 1,
                                 0,
@@ -2838,14 +2810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　　現実に戻りますか？"
+                                "Do you want to return to reality?"
                             ]
                         },
                         {
@@ -2853,8 +2818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ残る"
+                                    "Go back",
+                                    "Stay a bit longer"
                                 ],
                                 1,
                                 0,
@@ -3052,14 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　　現実に戻りますか？"
+                                "Do you want to return to reality?"
                             ]
                         },
                         {
@@ -3067,8 +3025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ残る"
+                                    "Go back",
+                                    "Stay a little longer"
                                 ],
                                 1,
                                 0,
@@ -3266,14 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　タイトルに戻りますか？　"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -3281,8 +3232,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ残る"
+                                    "Go back",
+                                    "Stay a little longer"
                                 ],
                                 1,
                                 0,
@@ -3423,14 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　タイトルに戻りますか？　"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -3438,8 +3382,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ残る"
+                                    "Go back",
+                                    "Stay a little longer"
                                 ],
                                 1,
                                 0,
@@ -3600,10 +3544,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "セーブ",
-                                    "オプション",
-                                    "タイトルに戻る",
-                                    "メニューを閉じる"
+                                    "Save",
+                                    "Options",
+                                    "Return to Title",
+                                    "Close Menu"
                                 ],
                                 3,
                                 0,
@@ -3672,14 +3616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{　　　　　　　タイトルに戻りますか？"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -3687,8 +3624,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3876,21 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この空間では、\\{佐藤 衛\\}と\\{朝火 誠\\}の二人の記憶を回想することができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主人公の行動の裏で、寝取られたヒロインは何を想っていたのか…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうぞ貴方のその目で、真相をお確かめください。"
+                                "In this space, you can recollect the memories of the two,\nSato Mamoru and Asahi Makoto. What was the heroine, who was\ntaken from the protagonist, thinking behind his actions...\nPlease, see the truth with your own eyes."
                             ]
                         },
                         {
@@ -4038,21 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体験版はここまでとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この度は、体験版をプレイしていただき、誠にありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続きは製品版にてお楽しみくださいませ。"
+                                "The demo ends here. Thank you very much for playing the\ndemo. Please look forward to the continuation in the full\nversion."
                             ]
                         },
                         {
@@ -4257,14 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン2：思い出の公園で露出プレイ"
+                                "Scene 2: Exhibitionist Play at the Park of Memories"
                             ]
                         },
                         {
@@ -4356,14 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン2：思い出の公園で露出プレイ"
+                                "Scene 2: Exhibitionist Play at the Park of Memories"
                             ]
                         },
                         {
@@ -4515,14 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン3：今日も激しく妊活中"
+                                "Scene 3: Another day of intense baby-making efforts"
                             ]
                         },
                         {
@@ -4614,14 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　シーン3：今日も激しく妊活中"
+                                "Scene 3: Another day of intense baby-making efforts"
                             ]
                         },
                         {
@@ -4763,14 +4644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -4778,8 +4652,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -4810,14 +4684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -4825,8 +4692,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -5068,14 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -5083,8 +4943,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -5115,14 +4975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -5130,8 +4983,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -5433,14 +5286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -5448,8 +5294,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -5480,14 +5326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -5495,8 +5334,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -5716,14 +5555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -5731,8 +5563,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -5763,14 +5595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -5778,8 +5603,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -6059,14 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -6074,8 +5892,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -6106,14 +5924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -6121,8 +5932,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -6364,14 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -6379,8 +6183,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -6411,14 +6215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{　　　　　エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue?"
                             ]
                         },
                         {
@@ -6426,8 +6223,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 1,
                                 0,
@@ -6735,14 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -6750,8 +6540,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -6924,14 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -6939,8 +6722,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -7173,14 +6956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -7188,8 +6964,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -7351,14 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -7366,8 +7135,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -7589,14 +7358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recall the scene?"
                             ]
                         },
                         {
@@ -7604,8 +7366,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,
@@ -7778,14 +7540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{　　　　　　　シーンを回想しますか？"
+                                "Would you like to recollect the scene?"
                             ]
                         },
                         {
@@ -7793,8 +7548,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想する",
-                                    "回想しない"
+                                    "Recollection",
+                                    "Do not recollect"
                                 ],
                                 1,
                                 0,

@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回復アイテムより上位に表示したいアイテム用の枠です。",
+        "description": "This is a slot for items that you want to display above healing items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----予備",
+        "name": "-----Reserves",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -146,7 +146,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----回復系",
+        "name": "-----Recovery Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -167,7 +167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを５００ポイント回復する。",
+        "description": "Restores 500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -179,7 +179,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -200,7 +200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを１５００ポイント回復する。",
+        "description": "Restores 1500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -212,7 +212,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 250,
@@ -233,7 +233,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。",
+        "description": "Completely restores HP.",
         "effects": [
             {
                 "code": 11,
@@ -245,7 +245,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "フルポーション",
+        "name": "Full Potion",
         "note": "",
         "occasion": 0,
         "price": 550,
@@ -266,7 +266,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを３００ポイント回復する。",
+        "description": "Restores 300 MP.",
         "effects": [
             {
                 "code": 12,
@@ -278,7 +278,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -299,7 +299,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "戦闘不能から復活させる。（ＨＰ半分回復）",
+        "description": "Revives from incapacitation. (Restores half HP)",
         "effects": [
             {
                 "code": 22,
@@ -311,7 +311,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -332,7 +332,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を回復する。",
+        "description": "Cures all status abnormalities except for incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -392,7 +392,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -413,7 +413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒、麻痺状態を治療する。",
+        "description": "Cures poison and paralysis.",
         "effects": [
             {
                 "code": 22,
@@ -431,7 +431,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "アンチドーテ",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 80,
@@ -452,7 +452,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを半分回復する。",
+        "description": "Restores half of HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -470,7 +470,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ミラクルドロップ",
+        "name": "Miracle Drop",
         "note": "",
         "occasion": 0,
         "price": 450,
@@ -491,7 +491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。",
+        "description": "Completely restores HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -509,7 +509,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1200,
@@ -561,7 +561,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----特殊系",
+        "name": "-----Special Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -582,7 +582,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Temporarily reduces the encounter rate with enemies by half.",
         "effects": [
             {
                 "code": 21,
@@ -594,7 +594,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウナー",
+        "name": "Encounter Downer",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -615,7 +615,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Temporarily increases the rate of obtaining items and rewards from battles.",
         "effects": [
             {
                 "code": 21,
@@ -627,7 +627,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ドロップアッパー",
+        "name": "Drop Upper",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -705,7 +705,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----強化系",
+        "name": "-----Enhancement Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -726,7 +726,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increases maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -738,7 +738,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -759,7 +759,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increases maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -771,7 +771,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -792,7 +792,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increases Attack by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -804,7 +804,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -825,7 +825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increases Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -837,7 +837,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -858,7 +858,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increases Magic Power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -870,7 +870,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -891,7 +891,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increases Magic Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -903,7 +903,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -924,7 +924,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increases Agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -936,7 +936,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -957,7 +957,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increases Luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -969,7 +969,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 3000,

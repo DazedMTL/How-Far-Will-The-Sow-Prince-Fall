@@ -4075,21 +4075,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「中から沢山の声が聞こえてくるな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この部屋には入らない方が良さそうだ…………」"
+                                "\"I can hear a lot of voices coming from inside... It might\nbe better not to enter this room...\""
                             ]
                         },
                         {
@@ -7844,7 +7837,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -7855,21 +7848,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オッ！！♡♡♡お゛ぉ゛ッ！！♡♡♡オッオッ！！♡♡♡おっ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほぉぉ！！♡♡♡ごぉおっ！！♡♡♡おぉぉぉ！！♡♡♡おぉん゛ん！！♡♡♡」"
+                                "\"Ah!!♡♡♡ Ohhh!!♡♡♡ Ah, ah!!♡♡♡ Ahh!!♡♡♡ Hoo!!♡♡♡ Goo!!♡♡♡\nOhhh!!♡♡♡ Ohnn!!♡♡♡\""
                             ]
                         },
                         {
@@ -7880,21 +7866,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぎひぃ゛ぃぃぃ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マンコのバイブが暴れるぅぅぅ！！♡♡♡」"
+                                "\"Gyahi!!♡♡♡ My pussy's going crazy with the vibrator!!♡♡♡\""
                             ]
                         },
                         {
@@ -7905,14 +7884,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{「ごぇえぇぇ！？♡♡♡」"
+                                "\"Goe!!?♡♡♡\""
                             ]
                         },
                         {
@@ -7923,21 +7902,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木 剛(すずき ごう)"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハハハハ！やっぱ安物の薬じゃ簡単には濡れねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁやり続けてたらその内よくなってくるだろ！」"
+                                "\"Hahaha! So the cheap drugs don't make you wet that easily,\nhuh! Well, if we keep going, you'll get better eventually!\""
                             ]
                         },
                         {
@@ -7948,14 +7920,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤 衛(さとう まもる)"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "\"...\""
                             ]
                         },
                         {
@@ -7973,21 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナレーション"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三行"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで"
+                                "Narration up to three lines"
                             ]
                         },
                         {
@@ -8001,7 +7959,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～台詞ウィンドウ・テンプレ～"
+                                "~Dialogue Window Template~"
                             ]
                         },
                         {
@@ -8015,7 +7973,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -8422,7 +8380,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～音関連・テンプレ～"
+                                "~Sound-Related Template~"
                             ]
                         },
                         {
@@ -8436,7 +8394,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -8571,7 +8529,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン開始・準備テンプレ～"
+                                "~Scene Start・Preparation Template~"
                             ]
                         },
                         {
@@ -8585,7 +8543,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie & Climax Scene Template~"
                             ]
                         },
                         {
@@ -8639,21 +8597,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁぁぁ！！♡♡♡イク！！♡♡♡イっちゃう！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イクイクイクイクイックウウウウウウウウウウウウ！！♡♡♡」"
+                                "\"Aaahh!!♡♡♡ I'm coming!!♡♡♡ I'm gonna cum!!♡♡♡ Cumming,\ncumming, cumming, cumming, cuuummmiiinggg!!♡♡♡\""
                             ]
                         },
                         {
@@ -8781,7 +8732,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "～中出し・絶頂シーン・テンプレ～"
+                                "~Creampie & Climax Scene Template~"
                             ]
                         },
                         {
@@ -8795,7 +8746,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -8853,28 +8804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、私は数時間にわたり、何度も鈴木に犯された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツは一切ゴムをつけず、私の中に射精した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行為が終わった後、私は強い自己嫌悪に陥っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に得も言えぬ満足感も、確かに感じていた。"
+                                "Afterwards, I was violated by Suzuki for several hours. He\nnever once used a condom and ejaculated inside me. After the\nact was over, I was overwhelmed with strong self-loathing,\nbut at the same time, I also felt an undeniable sense of\nsatisfaction."
                             ]
                         },
                         {
@@ -8938,7 +8868,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　　～シーン終了・テンプレ～"
+                                "~Scene End Template~"
                             ]
                         },
                         {
@@ -9033,21 +8963,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んおぉ…………♡♡♡ダーリン…………ダーリン…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日も私…………♡♡♡頑張ったよぉ…………♡♡♡」"
+                                "\"Nn-ohh...♡♡♡ Darling... Darling...♡♡♡ I did my best today\ntoo...♡♡♡\""
                             ]
                         },
                         {
@@ -9065,21 +8988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体中を精液で汚し、意識を朦朧とさせながら、私は部屋の中央で力なく横たわっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれだけ熱烈に私の事を犯しておいて、いざ行為を終えると、男達はそそくさと帰っていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋に残っていたのは、動けなくなった私と数人の清掃員だけだ。"
+                                "Covered in semen all over my body and with my consciousness\nfading, I lay powerless in the center of the room. After\nhaving violated me so fervently, the men hurriedly left as\nsoon as the act was over. The only ones left in the room\nwere me, unable to move, and a few janitors."
                             ]
                         },
                         {
@@ -9090,21 +8999,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員A"
+                                "Janitor A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～あ～。今日も派手に犯りまくったみたいだな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこかしこに精液飛び散らせて、部屋中、汚しまくってるよ」"
+                                "\"Ah, man. Looks like they went at it pretty hard again\ntoday. They've splattered semen everywhere, making a\ncomplete mess of the room.\""
                             ]
                         },
                         {
@@ -9115,21 +9017,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員B"
+                                "Janitor B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全く…………毎日毎日、馬鹿みたいに盛りやがって…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　片づけるこっちの身にもなってみろってんだ…………」"
+                                "\"Seriously... Every single day, they go at it like idiots...\nThink about the people who have to clean up after them...\""
                             ]
                         },
                         {
@@ -9140,21 +9035,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員C"
+                                "Janitor C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おい、下手なこと言うなよ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだ女が残ってるんだぞ…………」"
+                                "\"Hey, watch what you say... The woman's still here...\""
                             ]
                         },
                         {
@@ -9165,21 +9053,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員A"
+                                "Janitor A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「伸びてるみたいだし、大丈夫だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかしこの女、かなりの美人だよなあ～。俺もこんな女と犯ってみたいわ」"
+                                "\"She seems out of it, so it's probably fine. But man, this\nwoman is quite the beauty. I'd like to have a go with\nsomeone like her too.\""
                             ]
                         },
                         {
@@ -9190,21 +9071,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員B"
+                                "Janitor B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「目の前にいるんだから、こっそり犯せばいいじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人や二人、相手が増えてもバレないだろ」"
+                                "\"She's right in front of you, just do her quietly. One or\ntwo more won't make a difference, she won't even notice.\""
                             ]
                         },
                         {
@@ -9215,21 +9089,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員A"
+                                "Janitor A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ！誰がこんな精液まみれの女とするかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　男なら誰でもいいような奴と、俺は犯りたかねぇよ！」"
+                                "\"Ha! As if I'd want to do it with a woman covered in cum! I\ndon't want to screw someone who'd be with just any guy!\""
                             ]
                         },
                         {
@@ -9240,21 +9107,14 @@
                                 0,
                                 0,
                                 2,
-                                "清掃員B"
+                                "Janitor B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハハハ！それもそうだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺も自分のことだけを想ってくれる美人と付き合いてぇな～！」"
+                                "\"Hahaha! That's true! I'd also like to be with a beauty who\nonly thinks of me!\""
                             ]
                         },
                         {
@@ -9295,21 +9155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃員達の話しにぼんやりと耳を傾けながら、私は密かに孤独感を感じていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連日、男達に抱かれているというのに、彼らから温もりを感じたことは一度もなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "清掃員が言うような自分だけを想ってくれる人は、今の私にはいないと思った。"
+                                "While vaguely listening to the janitors' conversation, I\nfelt a sense of loneliness creeping in. Despite being\nembraced by men day after day, I had never once felt warmth\nfrom them. I thought that there was no one who would think\nonly of me, as the janitors said."
                             ]
                         },
                         {
@@ -9320,14 +9166,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「私…………一人ぼっちだな…………」"
+                                "\"I'm all alone, aren't I...\""
                             ]
                         },
                         {
@@ -9350,21 +9196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は誰の耳にも入らないような小さな声で呟くと、再びゆっくりと目を閉じた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この孤独感は今だけだ。いつか剛が癒してくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は祈るような気持ちでそう思い、そのまま暗い闇の中に意識を手放した。"
+                                "I muttered in a voice so faint that no one could hear, and\nthen slowly closed my eyes again. This loneliness is only\nfor now. Someday Go will heal me. With a feeling akin to\nprayer, I thought this and let go of my consciousness into\nthe dark abyss."
                             ]
                         },
                         {
@@ -9541,21 +9373,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ…………あぁ…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁぁ…………ぅぁ…………あぁ…………♡♡♡」"
+                                "\"Ah... ahh...♡♡♡ Ahhh... ugh... ahh...♡♡♡\""
                             ]
                         },
                         {
@@ -9566,21 +9391,14 @@
                                 0,
                                 0,
                                 2,
-                                "裕福そうな男B"
+                                "Wealthy-Looking Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや～！盛大にイキまくったなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつももう、すっかり意識がないじゃないか！ガハハハハ！」"
+                                "\"Wow! She came so hard! She's completely out of it now,\nisn't she? Gahahaha!\""
                             ]
                         },
                         {
@@ -9591,21 +9409,14 @@
                                 0,
                                 0,
                                 2,
-                                "裕福そうな男A"
+                                "Wealthy-Looking Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっちの方が、かえって運びやすいですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　捨てられたことを思い出して、暴れられても面倒ですからなぁ！」"
+                                "\"That actually makes it easier to carry her! It'd be a pain\nif she remembered being dumped and started thrashing about!\""
                             ]
                         },
                         {
@@ -9616,21 +9427,14 @@
                                 0,
                                 0,
                                 2,
-                                "裕福そうな男C"
+                                "Wealthy-Looking Man C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハハハハ！それもそうですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さ～て、誠ちゃ～ん！今から私達と一緒に、新しいお家に向かおうね～！」"
+                                "\"Hahahaha! That's true! Now then, Makoto-chan! Let's head to\nyour new home with us~!\""
                             ]
                         },
                         {
@@ -9641,21 +9445,14 @@
                                 0,
                                 0,
                                 2,
-                                "裕福そうな男D"
+                                "Wealthy-Looking Man D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私達が飽きるまで、いっぱい可愛がってあげるからね～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　グヒヒヒヒヒヒヒ！」"
+                                "\"We'll take very good care of you until we get bored~!\nGuhuhuhuhuhu!\""
                             ]
                         },
                         {
@@ -9863,21 +9660,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火 誠(あさひ せい)"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あがっ…………♡♡♡い…………やぁ…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰か…………たすけ…………まも…………ぅぅ……………………」"
+                                "\"Agh...♡♡♡ No... ah...♡♡♡ Someone... help... Mamoru...\nuuu...\""
                             ]
                         },
                         {
@@ -9900,21 +9690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "失神した私を担ぎ上げると、男達はそのまま用意したホテルへと運んでいった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから私は、この男達のむき出しの凶暴性を受け止めなければならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剛という枷がない以上、より激しい快楽地獄が私を待っていることだろう。"
+                                "As they lifted my unconscious body, the men carried me off\nto a prepared hotel. From now on, I would have to endure\ntheir raw brutality. Without the restraint of Go, an even\nmore intense pleasure hell awaited me."
                             ]
                         },
                         {
@@ -9932,21 +9708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし例え意識があっても、私はこの男達から逃げなかったと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げた所で、今の私に行く当てなど一つもないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剛に捨てられた私には、彼らの玩具になる以外の道は残されていなかった。"
+                                "However, even if I were conscious, I don't think I would\nhave run away from these men. Even if I fled, there was\nnowhere for me to go now. Abandoned by Go, there was no\nother path left for me but to become their plaything."
                             ]
                         },
                         {
