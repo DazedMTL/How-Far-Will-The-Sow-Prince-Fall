@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "～王子様・外伝～雌豚王子は何処まで落ちる",
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
